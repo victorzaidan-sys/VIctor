@@ -1,0 +1,6 @@
+{
+  "name": "Controle Universal TV",
+  "description": "Aplicativo de Controle Remoto Universal para Smart TVs (LG, Samsung, TCL, Sony, Panasonic, Roku, etc.) via Wi-Fi e Bluetooth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
